@@ -17,10 +17,7 @@
     width: 300px;
 }
 
-.first,
-.second,
-.third,
-.fourth {
+.text-block {
     padding: 10px;
     margin: 0 auto;
     border: 2px solid grey;
@@ -29,7 +26,6 @@
     max-width: 600px;
     font-family: 'Grenze', serif;
     text-align: center;
-    margin: 0 auto;
 }
 
 .list {
@@ -52,26 +48,25 @@
     list-style: none;
 }
 
-h2 {
-    text-align: center;
-}
-
 .first_part {
-
+    text-align: center;
     color: rgb(23, 146, 23);
 }
 
 .second_part {
+    text-align: center;
     color: blue;
     text-decoration: line-through;
 }
 
 .third_part {
+    text-align: center;
     color: rgb(255, 102, 0);
     text-decoration: overline;
 }
 
 .fourth_part {
+    text-align: center;
     color: red;
     text-decoration: underline;
 }
