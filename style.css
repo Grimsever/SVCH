@@ -21,11 +21,11 @@
 .second,
 .third,
 .fourth {
-    background: honeydew;
-    border: 2px solid grey;
-    border-radius: 20px;
     padding: 10px;
     margin: 0 auto;
+    border: 2px solid grey;
+    border-radius: 20px;
+    background: honeydew;
     max-width: 600px;
     font-family: 'Grenze', serif;
     text-align: center;
@@ -56,7 +56,7 @@ h2 {
 }
 
 .first_part {
-    
+
     color: rgb(23, 146, 23);
 }
 
