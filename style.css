@@ -7,11 +7,13 @@
 .main-page {
     text-align: center;
 }
-.image_show{
+
+.image_show {
     text-align: center;
     margin: 5px;
 }
-.image{
+
+.image {
     width: 300px;
 }
 
@@ -23,7 +25,8 @@
     border: 2px solid grey;
     border-radius: 20px;
     padding: 10px;
-    margin: 0 600px 0 600px;
+    margin: 0 auto;
+    max-width: 600px;
     font-family: 'Grenze', serif;
     text-align: center;
 }
@@ -53,7 +56,8 @@ h2 {
 }
 
 .first_part {
-    color: green;
+    
+    color: rgb(23, 146, 23);
 }
 
 .second_part {
