@@ -1,0 +1,70 @@
+*{
+    margin: auto;
+    background-color:rgb(113, 15, 151);
+}
+*>*{
+    background-color: white;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#fa-maxcdn{
+    font-size: 30px;
+    padding: 10px;
+}
+#fa-twitch, #fa-grav, #fa-ge, #fa-amazon{
+    font-size: 20px;
+    padding:10px;
+}
+.line-after-first-image
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.company_image>*{
+    width: 900px;
+}
+.company_image{
+    text-align: center;
+}
+.text1
+{
+    font-size: 20px;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+.text-first{
+    color: rgb(113, 15, 151);
+}
+.image2>*{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+.block2
+{
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+.block3
+{
+    display: flex;
+    justify-content: left;
+}
+.links
+{
+    margin:20px 0px 20px 0px;
+    display: flex;
+    justify-content: center;
+}
+.footer>*{
+    background-color: rgb(182, 174, 174);
+}
+.footer>*>i{
+    background-color: rgb(182, 174, 174);
+}
